@@ -1,6 +1,6 @@
 const {
     WAConnection,
-    MessageType,
+    MessageType,t
     Presence,
     MessageOptions,
     Mimetype,
